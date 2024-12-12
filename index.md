@@ -1,9 +1,11 @@
-##https://github.com/sumigotit
+
 # Sumisha Gottipaty's Portfolio
 
 I am a Computer Science Major graduating in 2028. I am a student passionate about 3D Design & Printing, Graphics, and Website Software and Design
 I have expierence in Python, Javascript, Rust, C++ and hobbies in programs such as AutoCaD, Sketchup, Fusion360, and AutoDesk
 I aspire to be a Aerospace Engineer/Developer and use marketing, strong leadership skills, creativity, and my public speaking expierence to hopefully make a difference in the world. 
+
+Here is my github profile - https://github.com/sumigotit 
 
 ## My Favorite CPSC 120L Labs
 
